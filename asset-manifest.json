@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-practice/static/css/main.d2134be8.chunk.css",
+    "main.js": "/react-portfolio-practice/static/js/main.4efbd270.chunk.js",
+    "main.js.map": "/react-portfolio-practice/static/js/main.4efbd270.chunk.js.map",
+    "runtime-main.js": "/react-portfolio-practice/static/js/runtime-main.e94f2350.js",
+    "runtime-main.js.map": "/react-portfolio-practice/static/js/runtime-main.e94f2350.js.map",
+    "static/js/2.6e178908.chunk.js": "/react-portfolio-practice/static/js/2.6e178908.chunk.js",
+    "static/js/2.6e178908.chunk.js.map": "/react-portfolio-practice/static/js/2.6e178908.chunk.js.map",
+    "index.html": "/react-portfolio-practice/index.html",
+    "static/css/main.d2134be8.chunk.css.map": "/react-portfolio-practice/static/css/main.d2134be8.chunk.css.map",
+    "static/js/2.6e178908.chunk.js.LICENSE.txt": "/react-portfolio-practice/static/js/2.6e178908.chunk.js.LICENSE.txt",
+    "static/media/DG_uganda.964bf081.jpg": "/react-portfolio-practice/static/media/DG_uganda.964bf081.jpg",
+    "static/media/bitcoin bubbler.823dd0a6.png": "/react-portfolio-practice/static/media/bitcoin bubbler.823dd0a6.png",
+    "static/media/intersection.86d822d3.png": "/react-portfolio-practice/static/media/intersection.86d822d3.png",
+    "static/media/reportable.37de3e61.png": "/react-portfolio-practice/static/media/reportable.37de3e61.png",
+    "static/media/tech blog.a4bb7b2d.png": "/react-portfolio-practice/static/media/tech blog.a4bb7b2d.png",
+    "static/media/index.css": "/react-portfolio-practice/static/media/topography.fee9c91f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e94f2350.js",
+    "static/js/2.6e178908.chunk.js",
+    "static/css/main.d2134be8.chunk.css",
+    "static/js/main.4efbd270.chunk.js"
+  ]
+}
